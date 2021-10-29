@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap6_Ex3_Matrices\Cap6_Ex3_Matrices\bin\Debug\Cap6_Ex3_Matrices.exe.config
+E:\Treinamento CSharp\Cap6_Ex3_Matrices\Cap6_Ex3_Matrices\bin\Debug\Cap6_Ex3_Matrices.exe
+E:\Treinamento CSharp\Cap6_Ex3_Matrices\Cap6_Ex3_Matrices\bin\Debug\Cap6_Ex3_Matrices.pdb
+E:\Treinamento CSharp\Cap6_Ex3_Matrices\Cap6_Ex3_Matrices\obj\Debug\Cap6_Ex3_Matrices.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap6_Ex3_Matrices\Cap6_Ex3_Matrices\obj\Debug\Cap6_Ex3_Matrices.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap6_Ex3_Matrices\Cap6_Ex3_Matrices\obj\Debug\Cap6_Ex3_Matrices.exe
+E:\Treinamento CSharp\Cap6_Ex3_Matrices\Cap6_Ex3_Matrices\obj\Debug\Cap6_Ex3_Matrices.pdb
