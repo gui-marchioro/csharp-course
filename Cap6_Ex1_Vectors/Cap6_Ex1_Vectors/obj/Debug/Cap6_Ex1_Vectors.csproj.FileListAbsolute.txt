@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap6_Ex1_Vectors\Cap6_Ex1_Vectors\bin\Debug\Cap6_Ex1_Vectors.exe.config
+E:\Treinamento CSharp\Cap6_Ex1_Vectors\Cap6_Ex1_Vectors\bin\Debug\Cap6_Ex1_Vectors.exe
+E:\Treinamento CSharp\Cap6_Ex1_Vectors\Cap6_Ex1_Vectors\bin\Debug\Cap6_Ex1_Vectors.pdb
+E:\Treinamento CSharp\Cap6_Ex1_Vectors\Cap6_Ex1_Vectors\obj\Debug\Cap6_Ex1_Vectors.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap6_Ex1_Vectors\Cap6_Ex1_Vectors\obj\Debug\Cap6_Ex1_Vectors.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap6_Ex1_Vectors\Cap6_Ex1_Vectors\obj\Debug\Cap6_Ex1_Vectors.exe
+E:\Treinamento CSharp\Cap6_Ex1_Vectors\Cap6_Ex1_Vectors\obj\Debug\Cap6_Ex1_Vectors.pdb

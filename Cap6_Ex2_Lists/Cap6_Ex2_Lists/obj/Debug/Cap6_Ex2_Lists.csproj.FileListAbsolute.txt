@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap6_Ex2_Lists\Cap6_Ex2_Lists\bin\Debug\Cap6_Ex2_Lists.exe.config
+E:\Treinamento CSharp\Cap6_Ex2_Lists\Cap6_Ex2_Lists\bin\Debug\Cap6_Ex2_Lists.exe
+E:\Treinamento CSharp\Cap6_Ex2_Lists\Cap6_Ex2_Lists\bin\Debug\Cap6_Ex2_Lists.pdb
+E:\Treinamento CSharp\Cap6_Ex2_Lists\Cap6_Ex2_Lists\obj\Debug\Cap6_Ex2_Lists.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap6_Ex2_Lists\Cap6_Ex2_Lists\obj\Debug\Cap6_Ex2_Lists.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap6_Ex2_Lists\Cap6_Ex2_Lists\obj\Debug\Cap6_Ex2_Lists.exe
+E:\Treinamento CSharp\Cap6_Ex2_Lists\Cap6_Ex2_Lists\obj\Debug\Cap6_Ex2_Lists.pdb

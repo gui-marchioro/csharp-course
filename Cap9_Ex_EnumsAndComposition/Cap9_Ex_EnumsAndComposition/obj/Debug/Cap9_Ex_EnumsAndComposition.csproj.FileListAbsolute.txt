@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap9_Ex_EnumsAndComposition\Cap9_Ex_EnumsAndComposition\bin\Debug\Cap9_Ex_EnumsAndComposition.exe.config
+E:\Treinamento CSharp\Cap9_Ex_EnumsAndComposition\Cap9_Ex_EnumsAndComposition\bin\Debug\Cap9_Ex_EnumsAndComposition.exe
+E:\Treinamento CSharp\Cap9_Ex_EnumsAndComposition\Cap9_Ex_EnumsAndComposition\bin\Debug\Cap9_Ex_EnumsAndComposition.pdb
+E:\Treinamento CSharp\Cap9_Ex_EnumsAndComposition\Cap9_Ex_EnumsAndComposition\obj\Debug\Cap9_Ex_EnumsAndComposition.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap9_Ex_EnumsAndComposition\Cap9_Ex_EnumsAndComposition\obj\Debug\Cap9_Ex_EnumsAndComposition.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap9_Ex_EnumsAndComposition\Cap9_Ex_EnumsAndComposition\obj\Debug\Cap9_Ex_EnumsAndComposition.exe
+E:\Treinamento CSharp\Cap9_Ex_EnumsAndComposition\Cap9_Ex_EnumsAndComposition\obj\Debug\Cap9_Ex_EnumsAndComposition.pdb
