@@ -1,0 +1,6 @@
+E:\Treinamento CSharp\Cap4_Ex_2_2ClassesAndMethods\Cap4_Ex_2_2ClassesAndMethods\bin\Debug\Cap4_Ex_2_2ClassesAndMethods.exe.config
+E:\Treinamento CSharp\Cap4_Ex_2_2ClassesAndMethods\Cap4_Ex_2_2ClassesAndMethods\bin\Debug\Cap4_Ex_2_2ClassesAndMethods.exe
+E:\Treinamento CSharp\Cap4_Ex_2_2ClassesAndMethods\Cap4_Ex_2_2ClassesAndMethods\bin\Debug\Cap4_Ex_2_2ClassesAndMethods.pdb
+E:\Treinamento CSharp\Cap4_Ex_2_2ClassesAndMethods\Cap4_Ex_2_2ClassesAndMethods\obj\Debug\Cap4_Ex_2_2ClassesAndMethods.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap4_Ex_2_2ClassesAndMethods\Cap4_Ex_2_2ClassesAndMethods\obj\Debug\Cap4_Ex_2_2ClassesAndMethods.exe
+E:\Treinamento CSharp\Cap4_Ex_2_2ClassesAndMethods\Cap4_Ex_2_2ClassesAndMethods\obj\Debug\Cap4_Ex_2_2ClassesAndMethods.pdb

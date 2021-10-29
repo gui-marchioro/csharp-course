@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap4_Ex1_3StaticMethods\Cap4_Ex1_3StaticMethods\bin\Debug\Cap4_Ex1_3StaticMethods.exe.config
+E:\Treinamento CSharp\Cap4_Ex1_3StaticMethods\Cap4_Ex1_3StaticMethods\bin\Debug\Cap4_Ex1_3StaticMethods.exe
+E:\Treinamento CSharp\Cap4_Ex1_3StaticMethods\Cap4_Ex1_3StaticMethods\bin\Debug\Cap4_Ex1_3StaticMethods.pdb
+E:\Treinamento CSharp\Cap4_Ex1_3StaticMethods\Cap4_Ex1_3StaticMethods\obj\Debug\Cap4_Ex1_3StaticMethods.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap4_Ex1_3StaticMethods\Cap4_Ex1_3StaticMethods\obj\Debug\Cap4_Ex1_3StaticMethods.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap4_Ex1_3StaticMethods\Cap4_Ex1_3StaticMethods\obj\Debug\Cap4_Ex1_3StaticMethods.exe
+E:\Treinamento CSharp\Cap4_Ex1_3StaticMethods\Cap4_Ex1_3StaticMethods\obj\Debug\Cap4_Ex1_3StaticMethods.pdb
