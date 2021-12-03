@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap15_Ex2_Dictionary\Cap15_Ex2_Dictionary\bin\Debug\Cap15_Ex2_Dictionary.exe.config
+E:\Treinamento CSharp\Cap15_Ex2_Dictionary\Cap15_Ex2_Dictionary\bin\Debug\Cap15_Ex2_Dictionary.exe
+E:\Treinamento CSharp\Cap15_Ex2_Dictionary\Cap15_Ex2_Dictionary\bin\Debug\Cap15_Ex2_Dictionary.pdb
+E:\Treinamento CSharp\Cap15_Ex2_Dictionary\Cap15_Ex2_Dictionary\obj\Debug\Cap15_Ex2_Dictionary.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap15_Ex2_Dictionary\Cap15_Ex2_Dictionary\obj\Debug\Cap15_Ex2_Dictionary.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap15_Ex2_Dictionary\Cap15_Ex2_Dictionary\obj\Debug\Cap15_Ex2_Dictionary.exe
+E:\Treinamento CSharp\Cap15_Ex2_Dictionary\Cap15_Ex2_Dictionary\obj\Debug\Cap15_Ex2_Dictionary.pdb

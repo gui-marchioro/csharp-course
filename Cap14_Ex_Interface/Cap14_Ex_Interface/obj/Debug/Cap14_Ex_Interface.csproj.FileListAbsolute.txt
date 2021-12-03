@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap14_Ex_Interface\Cap14_Ex_Interface\bin\Debug\Cap14_Ex_Interface.exe.config
+E:\Treinamento CSharp\Cap14_Ex_Interface\Cap14_Ex_Interface\bin\Debug\Cap14_Ex_Interface.exe
+E:\Treinamento CSharp\Cap14_Ex_Interface\Cap14_Ex_Interface\bin\Debug\Cap14_Ex_Interface.pdb
+E:\Treinamento CSharp\Cap14_Ex_Interface\Cap14_Ex_Interface\obj\Debug\Cap14_Ex_Interface.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap14_Ex_Interface\Cap14_Ex_Interface\obj\Debug\Cap14_Ex_Interface.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap14_Ex_Interface\Cap14_Ex_Interface\obj\Debug\Cap14_Ex_Interface.exe
+E:\Treinamento CSharp\Cap14_Ex_Interface\Cap14_Ex_Interface\obj\Debug\Cap14_Ex_Interface.pdb

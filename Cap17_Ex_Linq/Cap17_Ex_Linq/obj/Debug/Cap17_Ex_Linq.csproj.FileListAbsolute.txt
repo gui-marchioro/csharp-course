@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap17_Ex_Linq\Cap17_Ex_Linq\bin\Debug\Cap17_Ex_Linq.exe.config
+E:\Treinamento CSharp\Cap17_Ex_Linq\Cap17_Ex_Linq\bin\Debug\Cap17_Ex_Linq.exe
+E:\Treinamento CSharp\Cap17_Ex_Linq\Cap17_Ex_Linq\bin\Debug\Cap17_Ex_Linq.pdb
+E:\Treinamento CSharp\Cap17_Ex_Linq\Cap17_Ex_Linq\obj\Debug\Cap17_Ex_Linq.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap17_Ex_Linq\Cap17_Ex_Linq\obj\Debug\Cap17_Ex_Linq.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap17_Ex_Linq\Cap17_Ex_Linq\obj\Debug\Cap17_Ex_Linq.exe
+E:\Treinamento CSharp\Cap17_Ex_Linq\Cap17_Ex_Linq\obj\Debug\Cap17_Ex_Linq.pdb

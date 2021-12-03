@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap15_Ex_GenericSets\Cap15_Ex_GenericSets\bin\Debug\Cap15_Ex_GenericSets.exe.config
+E:\Treinamento CSharp\Cap15_Ex_GenericSets\Cap15_Ex_GenericSets\bin\Debug\Cap15_Ex_GenericSets.exe
+E:\Treinamento CSharp\Cap15_Ex_GenericSets\Cap15_Ex_GenericSets\bin\Debug\Cap15_Ex_GenericSets.pdb
+E:\Treinamento CSharp\Cap15_Ex_GenericSets\Cap15_Ex_GenericSets\obj\Debug\Cap15_Ex_GenericSets.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap15_Ex_GenericSets\Cap15_Ex_GenericSets\obj\Debug\Cap15_Ex_GenericSets.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap15_Ex_GenericSets\Cap15_Ex_GenericSets\obj\Debug\Cap15_Ex_GenericSets.exe
+E:\Treinamento CSharp\Cap15_Ex_GenericSets\Cap15_Ex_GenericSets\obj\Debug\Cap15_Ex_GenericSets.pdb
