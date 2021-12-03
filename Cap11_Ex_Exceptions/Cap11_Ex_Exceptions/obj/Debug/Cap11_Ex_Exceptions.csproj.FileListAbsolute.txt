@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap11_Ex_Exceptions\Cap11_Ex_Exceptions\obj\Debug\Cap11_Ex_Exceptions.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap11_Ex_Exceptions\Cap11_Ex_Exceptions\obj\Debug\Cap11_Ex_Exceptions.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap11_Ex_Exceptions\Cap11_Ex_Exceptions\bin\Debug\Cap11_Ex_Exceptions.exe.config
+E:\Treinamento CSharp\Cap11_Ex_Exceptions\Cap11_Ex_Exceptions\bin\Debug\Cap11_Ex_Exceptions.exe
+E:\Treinamento CSharp\Cap11_Ex_Exceptions\Cap11_Ex_Exceptions\bin\Debug\Cap11_Ex_Exceptions.pdb
+E:\Treinamento CSharp\Cap11_Ex_Exceptions\Cap11_Ex_Exceptions\obj\Debug\Cap11_Ex_Exceptions.exe
+E:\Treinamento CSharp\Cap11_Ex_Exceptions\Cap11_Ex_Exceptions\obj\Debug\Cap11_Ex_Exceptions.pdb

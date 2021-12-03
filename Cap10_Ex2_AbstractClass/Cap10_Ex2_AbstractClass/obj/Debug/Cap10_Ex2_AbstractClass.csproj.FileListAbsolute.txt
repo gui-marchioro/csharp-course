@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap10_Ex2_AbstractClass\Cap10_Ex2_AbstractClass\obj\Debug\Cap10_Ex2_AbstractClass.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap10_Ex2_AbstractClass\Cap10_Ex2_AbstractClass\obj\Debug\Cap10_Ex2_AbstractClass.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap10_Ex2_AbstractClass\Cap10_Ex2_AbstractClass\bin\Debug\Cap10_Ex2_AbstractClass.exe.config
+E:\Treinamento CSharp\Cap10_Ex2_AbstractClass\Cap10_Ex2_AbstractClass\bin\Debug\Cap10_Ex2_AbstractClass.exe
+E:\Treinamento CSharp\Cap10_Ex2_AbstractClass\Cap10_Ex2_AbstractClass\bin\Debug\Cap10_Ex2_AbstractClass.pdb
+E:\Treinamento CSharp\Cap10_Ex2_AbstractClass\Cap10_Ex2_AbstractClass\obj\Debug\Cap10_Ex2_AbstractClass.exe
+E:\Treinamento CSharp\Cap10_Ex2_AbstractClass\Cap10_Ex2_AbstractClass\obj\Debug\Cap10_Ex2_AbstractClass.pdb

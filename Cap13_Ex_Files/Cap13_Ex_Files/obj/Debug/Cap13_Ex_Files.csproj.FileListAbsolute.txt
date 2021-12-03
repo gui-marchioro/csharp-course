@@ -1,0 +1,7 @@
+E:\Treinamento CSharp\Cap13_Ex_Files\Cap13_Ex_Files\obj\Debug\Cap13_Ex_Files.csprojAssemblyReference.cache
+E:\Treinamento CSharp\Cap13_Ex_Files\Cap13_Ex_Files\obj\Debug\Cap13_Ex_Files.csproj.CoreCompileInputs.cache
+E:\Treinamento CSharp\Cap13_Ex_Files\Cap13_Ex_Files\bin\Debug\Cap13_Ex_Files.exe.config
+E:\Treinamento CSharp\Cap13_Ex_Files\Cap13_Ex_Files\bin\Debug\Cap13_Ex_Files.exe
+E:\Treinamento CSharp\Cap13_Ex_Files\Cap13_Ex_Files\bin\Debug\Cap13_Ex_Files.pdb
+E:\Treinamento CSharp\Cap13_Ex_Files\Cap13_Ex_Files\obj\Debug\Cap13_Ex_Files.exe
+E:\Treinamento CSharp\Cap13_Ex_Files\Cap13_Ex_Files\obj\Debug\Cap13_Ex_Files.pdb
